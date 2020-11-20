@@ -24,3 +24,6 @@ we use this package for text analysis
 This package provides access to the full texts of Jane Austen's 6 completed, published novels. 
 
 - [Text Mining with R](https://www.tidytextmining.com/)
+
+## Report
+[click in here](https://ron-li.github.io/MA615text_mining/Tagging-Project.html)
